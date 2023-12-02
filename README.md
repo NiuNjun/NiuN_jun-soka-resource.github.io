@@ -2,14 +2,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no">
-<title>ubc</title>
 <style type="text/css">
 body,td,th {
 	text-align: center;
 	font-family: "微软雅黑", "Droid Sans Fallback", "黑体", sans-serif;
 }
 a:visited {
-	color: #014D50;
+	color: #B7CEFF;
 }
 </style>
 </head>
