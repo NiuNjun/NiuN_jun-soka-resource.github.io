@@ -9,7 +9,7 @@ body,td,th {
 	font-family: "微软雅黑", "Droid Sans Fallback", "黑体", sans-serif;
 }
 a:visited {
-	color: #FFFFFF;
+	color: #014D50;
 }
 </style>
 </head>
