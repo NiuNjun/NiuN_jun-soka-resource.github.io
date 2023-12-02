@@ -14,7 +14,7 @@ a:visited {
 </style>
 </head>
 
-<body bgcolor="#014D50" text="#FFFFFF" link="#B7CEFF">
+<body bgcolor="#014D50" text="#014D50" link="#B7CEFF">
 <h1 style="text-align: center">五位数小鬼专属の资料参闻馆</h1>
 <p style="text-align: center">240P全损画质</p>
 <hr>
