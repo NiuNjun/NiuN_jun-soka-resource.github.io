@@ -8,12 +8,12 @@ body,td,th {
 	font-family: "微软雅黑", "Droid Sans Fallback", "黑体", sans-serif;
 }
 a:visited {
-	color: #B7CEFF;
+	color: #2065D3;
 }
 </style>
 </head>
 
-<body bgcolor="#014D50" text="#014D50" link="#B7CEFF">
+<body bgcolor="#014D50" text="#014D50" link="#2065D3">
 <h1 style="text-align: center">五位数小鬼专属の资料参闻馆</h1>
 <p style="text-align: center">240P全损画质</p>
 <hr>
