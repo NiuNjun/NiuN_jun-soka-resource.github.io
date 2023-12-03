@@ -19,14 +19,14 @@ a:visited {
 <hr>
 <p style="text-align: left; color: #FF0004;"><strong>[P3修复]巨猎奇..创价学会猎奇合辑</strong></p>
 <blockquote>
-  <p style="text-align: left">P1 <a href="https://ubc26.github.io/vid/10492/01.mp4">余命２週間のあおいが謝罪放送。Parn2</a></p>
-  <p style="text-align: left">P2 <a href="https://ubc26.github.io/vid/10492/02.mp4">ハッシュポテト</a></p>
-  <p style="text-align: left">P3 <a href="https://ubc26.github.io/vid/10492/03.mp4">すばらしきオチョ人生</a></p>
-  <p style="text-align: left">P4 <a href="https://ubc26.github.io/vid/10492/04.mp4">オチョ本さんがミテルだけ</a></p>
-  <p style="text-align: left">P5 <a href="https://ubc26.github.io/vid/10492/05.mp4">くぱぁ♪ (无修正版)</a> <a href="https://ubc26.github.io/vid/10492/05-1.mp4">(修正版)</a></p>
-  <p style="text-align: left">P6 <a href="https://ubc26.github.io/vid/10492/06.mp4">カサカサ虫</a></p>
-  <p style="text-align: left">P7 <a href="https://ubc26.github.io/vid/10492/07.mp4">御本尊コースター</a></p>
-  <p style="text-align: left">P8 <a href="https://ubc26.github.io/vid/10492/08.mp4">下積み時代の久本さんのシンクロナイズドスイミング</a></p>
+  <p style="text-align: left">P1 <a href="https://niunjun.github.io/ubc/P1%20%E8%B5%B7%E6%BA%90.MP4">余命２週間のあおいが謝罪放送。Parn2</a></p>
+  <p style="text-align: left">P2 <a href="https://niunjun.github.io/ubc/P2%20%E4%B9%85%E6%9C%AC%E8%96%AF%E9%A5%BC.mp4">ハッシュポテト</a></p>
+  <p style="text-align: left">P3 <a href="https://niunjun.github.io/ubc/P3%20%E5%85%A8%E5%91%98%E7%8C%8E%E5%A5%87.mp4">すばらしきオチョ人生</a></p>
+  <p style="text-align: left">P4 <a href="https://niunjun.github.io/ubc/P4%20%E5%93%A6%E5%81%9A%E5%93%A6%E5%81%9A.mp4">オチョ本さんがミテルだけ</a></p>
+  <p style="text-align: left">P5 <a href="https://niunjun.github.io/ubc/P5%20%E4%B9%85%E6%9C%AC%E6%9D%82%E4%BA%A4.mp4">くぱぁ♪</a></p>
+  <p style="text-align: left">P6 <a href="https://niunjun.github.io/ubc/P6%20%E7%9B%8A%E8%99%AB%E8%A7%82%E5%AF%9F.mp4">カサカサ虫</a></p>
+  <p style="text-align: left">P7 <a href="https://niunjun.github.io/ubc/P7%20%E5%BE%A1%E6%9C%AC%E5%B0%8A%E8%BF%87%E5%B1%B1%E8%BD%A6.mp4">御本尊コースター</a></p>
+  <p style="text-align: left">P8 <a href="https://niunjun.github.io/ubc/P26%20%E8%B6%85%E7%BA%A7%E5%8F%98%E5%8F%98%E5%8F%98.mp4">下積み時代の久本さんのシンクロナイズドスイミング</a></p>
   <p style="text-align: left">&nbsp;</p>
 </blockquote>
 <p style="text-align: left"><strong>创价学会高等精神病合集（部分）</strong></p>
@@ -48,30 +48,3 @@ a:visited {
   <p style="text-align: left">P25 <a href="https://ubc26.github.io/vid/10492/Others/ASTYLE.mp4">短小？！</a></p>
   <p style="text-align: left">P48 <a href="https://ubc26.github.io/vid/10492/06-1.mp4">進化するガサガサ虫</a></p>
 </blockquote>
-<hr>
-<p style="text-align: left; font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', monospace;"><span style="color: #C1C1C1">av23 <a href="../vid/archive/00000023.mp4">被蓝蓝路的七变化洗脑后，兴致很高</a></span><br />
-av106 <a href="../vid/archive/00000106.mp4">最终鬼畜蓝蓝路</a><br />
-av107 <a href="../vid/archive/00000107.mp4">最终鬼畜二小姐 </a><br />
-  <span style="color: #C1C1C1">av508</span> <span style="color: #C1C1C1"><a href="../vid/archive/00000508.mp4">【V家】蓝蓝路引发的异变</a></span><br />
-  av41630 <a href="../vid/archive/00041630.mp4">琪露諾疾行 </a><br />
-  av10429 <a href="../vid/archive/00010429.mp4">葛平起源</a><br />
-  <span style="color: #C1C1C1">av10492 <a href="../vid/10492/01.mp4">巨猎奇..创价学会猎奇合辑</a></span><br />
-  av25674 <a href="../vid/archive/00025674.mp4">琪露諾的完美瞎眼教室</a><br />
-  <span style="color: #C1C1C1">av53065</span> <a href="../vid/archive/00053065.mp4">Happy sex!!!!</a><br />
-  <span style="color: #C1C1C1">av77042</span> <a href="../vid/archive/00077042.mp4">世界の眼睛 </a><br />
-  av88885 <a href="../vid/archive/00088885.mp4">カルトマンの妖怪熟女</a><br />
-  <span style="color: #C1C1C1">av88888 <a href="../vid/10492/Others/AIRMT.mp4">不可視久本</a></span><br />
-  av123688 <a href="../vid/archive/00123688.mp4">东方喜洋洋</a><br />
-  <span style="color: #C1C1C1">av129073 <a href="../vid/archive/00129073.mp4">旅立ちの日に</a></span><br />
-  <span style="color: #C1C1C1">av129520</span> <span style="color: #C1C1C1"><a href="../vid/archive/00129520.mp4">sm666 so Happy</a></span><br />
-  av170001 <a href="../vid/archive/00170001.mp4">保加利亚妖王HOP</a><br />
-  <span style="color: #FF0004">av423257 <a href="../vid/archive/00423257.mp4">Doll</a><a href="../vid/archive/11009508.mp4"><br />
-  </a>av459582 <a href="../vid/archive/00459582.mp4">無題</a><br />
-  av882708 <a href="../vid/archive/00882708.mp4">章鱼哥自杀</a></span><br />
-  av1216934 <a href="../vid/archive/01216934.mp4">紫苑镇死亡音乐高质立体声</a><br />
-  av1345966 <a href="../vid/archive/01345966.mp4">蓝蓝路广告恶搞版</a><br />
-  <span style="color: #FF0004">av10198539 <a href="../vid/archive/10198539.mp4">香蕉君热舞</a><br />
-av11009508 <a href="../vid/archive/11009508.mp4">蕉忍♂疾风传</a><a href="../vid/archive/11009508.mp4"><br />
-</a></span></p>
-
-</body></html>
